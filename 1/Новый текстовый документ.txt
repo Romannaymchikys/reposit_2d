@@ -1,6 +1,0 @@
-if ((vecShapes[NUMBER_LINE].
-					vecPoints[NUMBER_POINT].coordsObj.POS_X - vecShapes[i].vecPoints[j].coordsObj.POS_X) / 
-					(vecShapes[i].vecPoints[j + 1].coordsObj.POS_X - vecShapes[i].vecPoints[j].coordsObj.POS_X) ==
-					(vecShapes[NUMBER_LINE].
-						vecPoints[NUMBER_POINT].coordsObj.POS_Y - vecShapes[i].vecPoints[j].coordsObj.POS_Y) /
-						(vecShapes[i].vecPoints[j + 1].coordsObj.POS_Y - vecShapes[i].vecPoints[j].coordsObj.POS_Y))
