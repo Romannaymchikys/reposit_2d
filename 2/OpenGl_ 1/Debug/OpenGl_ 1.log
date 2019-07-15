@@ -1,0 +1,6 @@
+﻿  OpenGl_ 1.cpp
+c:\users\roman\desktop\концовка\1\opengl_ 1\mainfunctional.h(24): warning C4101: 'F': unreferenced local variable
+c:\users\roman\desktop\концовка\1\opengl_ 1\mainfunctional.h(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\roman\desktop\концовка\1\opengl_ 1\mainfunctional.h(56): warning C4018: '<': signed/unsigned mismatch
+  OpenGl_ 1.vcxproj -> C:\Users\Roman\Desktop\концовка\1\Debug\OpenGl_ 1.exe
+  OpenGl_ 1.vcxproj -> C:\Users\Roman\Desktop\концовка\1\Debug\OpenGl_ 1.pdb (Full PDB)
